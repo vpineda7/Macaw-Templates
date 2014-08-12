@@ -6,3 +6,6 @@ I often use Macaw to knock up proof of concept sites for clients before I hand c
 Feel free to raise any issues and or contribute to this repo.
 
 [@raynesandrew] (http://andrewraynes.com)
+
+
+Note: I hope to spare a minute to make these templates fully mobile and clean in terms of HTML/CSS in the days to come!
