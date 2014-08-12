@@ -16,6 +16,6 @@ Macaw provides the same flexibility as your favorite image editor but also write
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/Gamer.png)
 
 
-Use these templates as you wish. If you wish to add to the library raise an issue.
+Use these templates as you wish. If you want to add to the library raise an issue.
 Follow me on Twitter for updates to this repo [@raynesandrew] (http://twitter.com/raynesandrew)
 
