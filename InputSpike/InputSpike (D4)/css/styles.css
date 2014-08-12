@@ -1,0 +1,231 @@
+body{background-color:rgb(255, 255, 255);font:normal 1em/1.38 AvenirNext-UltraLight;}
+
+.create_form{color:rgb(144, 144, 144);}
+
+.index{color:rgb(68, 68, 68);}
+
+.advert{position:relative;float:left;z-index:31;width:100%;height:580px;}
+
+.advert .element{position:relative;float:left;z-index:28;width:100%;height:580px;background:rgb(136, 135, 208);background:-webkit-linear-gradient(306deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);background:-moz-linear-gradient(306deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);background:-o-linear-gradient(306deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);background:-ms-linear-gradient(306deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);background:linear-gradient(144deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);}
+
+.advert .image{position:relative;z-index:29;width:521px;margin:-365px 0 0 33.4%;}
+
+.advert .text{position:relative;float:left;clear:both;z-index:30;margin:-456px 0 0 30.2666666666%;font:2.5em AvenirNext-UltraLightItalic;color:rgb(255, 255, 255);}
+
+.features{float:left;width:73.4%;height:42px;margin:33px 0 0 14.8%;}
+
+.features .element{float:left;clear:both;width:100%;height:1px;margin:18px 0 0 -0.9082652135%;background-color:rgba(196, 196, 196, 0.49);}
+
+.features .image{width:24px;}
+
+.features .text{float:left;font-family:AvenirNext-Regular;color:rgb(68, 68, 68);}
+
+.features_2{float:left;clear:both;width:79.4666666666%;height:365px;margin:71px 0 0 8.7333333333%;}
+
+.features_2 .image{position:relative;width:340px;}
+
+.features_2 .text{float:left;color:rgb(68, 68, 68);}
+
+.footer{float:left;clear:both;width:100%;height:79px;}
+
+.footer .element{position:relative;float:left;z-index:0;width:100%;height:79px;background-color:rgba(26, 26, 26, 0.89);}
+
+.footer .text{position:relative;float:left;margin-top:-49px;font-size:0.75em;color:rgba(227, 227, 227, 0.89);}
+
+.image{display:block;float:left;height:auto;overflow:hidden;}
+
+.logo{width:12.3333333333%;height:43px;}
+
+.logo .image{width:42px;}
+
+.nav{width:67.0666666666%;height:42px;}
+
+.nav .element{position:relative;float:left;z-index:50;width:149.1053677932%;height:79px;margin:-21px 0 0 -48.111332008%;background:rgb(136, 135, 208);background:-webkit-linear-gradient(306deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);background:-moz-linear-gradient(306deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);background:-o-linear-gradient(306deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);background:-ms-linear-gradient(306deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);background:linear-gradient(144deg, rgb(136, 135, 208) 0%, rgba(152, 47, 184, 0.51) 100%) rgb(222, 222, 222);}
+
+.survey_one{float:left;width:95.4666666666%;height:103px;margin:185px 0 0 2.0666666666%;}
+
+.survey_one .image{width:25px;margin-top:-7px;}
+
+.survey_one .text{float:left;}
+
+.survey_two{float:left;clear:both;width:95.4666666666%;height:78px;margin:54px 0 0 2.0666666666%;}
+
+.survey_two .element{position:relative;float:left;z-index:6;width:104.7486033519%;height:122px;margin:-38px 0 0 -2.1648044693%;background-color:rgba(222, 222, 222, 0.25);}
+
+.survey_two .image{width:25px;margin-top:-46px;}
+
+.survey_two .text{float:left;}
+
+.text{display:inline-block;}
+
+._button{display:block;border-radius:3px;line-height:2.58;text-align:center;}
+
+._input{display:block;float:left;width:14.7346368715%;height:24px;padding:0 10px;background-color:rgb(242, 242, 242);font:400 0.813em/1.38 'Avenir Next';color:rgb(0, 0, 0);}
+
+.logo ._text{display:inline-block;float:left;margin:4px 0 0 5.4054054054%;font:1.563em/1.38 AvenirNext-Regular;color:rgb(255, 255, 255);}
+
+.nav ._button{float:left;height:42px;color:rgb(255, 255, 255);}
+
+.nav ._text{display:inline-block;float:left;line-height:1.38;}
+
+.survey_one ._button{float:left;width:6.2849162011%;height:47px;margin-top:12px;border:1px solid rgb(0, 0, 0);background-color:rgba(255, 255, 255, 0);font-size:0.75em;color:rgb(0, 0, 0);}
+
+.survey_one ._input{margin:-43px 0 0 84.4972067039%;}
+
+.survey_two ._button{float:left;width:6.2849162011%;height:47px;margin-top:-90px;border:1px solid rgb(0, 0, 0);background-color:rgba(255, 255, 255, 0);font-size:0.75em;color:rgb(0, 0, 0);}
+
+.survey_two ._input{margin:-87px 0 0 84.7067039106%;}
+
+.element-2{position:fixed;top:79px;left:0;z-index:47;width:100%;height:85px;background-color:rgba(222, 222, 222, 0.43);}
+
+.footer-1{margin-top:364px;}
+
+.footer-2{margin-top:39px;}
+
+.image-10,.image-8,.image-9{margin-left:6.9028156221%;}
+
+.image-11{z-index:14;margin:13px 0 0 4.110738255%;}
+
+.image-12{z-index:11;margin:-255px 0 0 13.1711409395%;}
+
+.image-13{z-index:8;margin:-255px 0 0 8.4731543624%;}
+
+.image-14{margin-left:84.7067039106%;}
+
+.image-15{margin-left:87.0810055865%;}
+
+.image-16{position:relative;z-index:22;margin-left:89.4553072625%;}
+
+.image-4{margin-left:2.5837988826%;}
+
+.image-6{margin-left:9.3551316984%;}
+
+.image-5,.image-7{margin-left:0.6284916201%;}
+
+.logo-1{position:fixed;top:18px;left:2.0666666666%;z-index:61;}
+
+.logo-2{position:relative;float:left;clear:both;z-index:42;margin:-562px 0 0 2.0666666666%;}
+
+.nav-1{position:fixed;top:21px;left:32.2666666666%;z-index:58;}
+
+.nav-2{position:relative;float:left;z-index:39;margin:-559px 0 0 32.2666666666%;}
+
+.text-1{position:fixed;top:108px;left:2.0666666666%;z-index:49;font:1.25em AvenirNext-Regular;color:rgb(68, 68, 68);}
+
+.text-10{clear:both;margin-top:-31px;font-family:AvenirNext-Regular;font-size:0.75em;color:rgb(0,0,0);}
+
+.text-11{margin:-39px 0 0 79.6089385474%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+.text-12{margin:-23px 0 0 50.6284916201%;font-family:AvenirNext-Regular;color:rgb(68, 68, 68);}
+
+.text-13{margin:-23px 0 0 59.7067039106%;font-family:AvenirNext-Regular;text-align:center;color:rgb(68, 68, 68);}
+
+.text-14{margin:-23px 0 0 68.2960893854%;font-family:AvenirNext-Regular;text-align:center;color:rgb(68, 68, 68);}
+
+.text-15{margin:-2px 0 0 79.6089385474%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+.text-16{margin-left:2.3614895549%;}
+
+.text-17{margin-left:1.5440508628%;}
+
+.text-18{position:relative;clear:both;z-index:8;margin-top:-74px;font-family:AvenirNext-Regular;font-size:0.75em;color:rgb(0,0,0);}
+
+.text-19{margin-left:1.8165304268%;}
+
+.text-2{font-family:AvenirNext-Regular;text-decoration:underline;color:rgb(68, 68, 68);}
+
+.text-20{margin-left:1.0899182561%;}
+
+.text-21{margin:-90px 0 0 49.0921787709%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+.text-22{float:left;clear:both;margin:41px 0 0 38.8%;font-size:1.563em;color:rgb(68, 68, 68);}
+
+.text-23{margin:-90px 0 0 57.8212290502%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+.text-24{float:left;clear:both;margin:7px 0 0 36.8666666666%;font:400 1.563em 'Avenir Next';color:rgb(68, 68, 68);}
+
+.text-25{margin:-90px 0 0 66.7597765363%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+.text-26{margin:-82px 0 0 79.6089385474%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+.text-27{margin:-65px 0 0 50.6284916201%;font-family:AvenirNext-Regular;color:rgb(68, 68, 68);}
+
+.text-28{position:relative;clear:both;z-index:13;margin:-3px 0 0 12.8355704697%;font-family:AvenirNext-Regular;}
+
+.text-29{margin:-65px 0 0 59.7765363128%;font-family:AvenirNext-Regular;text-align:center;color:rgb(68, 68, 68);}
+
+.text-3{margin-left:7.3324022346%;font-family:AvenirNext-Regular;text-decoration:underline;color:rgb(68, 68, 68);}
+
+.text-30{margin:-65px 0 0 68.2960893854%;font-family:AvenirNext-Regular;text-align:center;color:rgb(68, 68, 68);}
+
+.text-31{position:relative;z-index:10;margin:-3px 0 0 18.7080536912%;font-family:AvenirNext-Regular;}
+
+.text-32{margin:-43px 0 0 79.6089385474%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+.text-33{position:relative;z-index:7;margin:-3px 0 0 15.4362416107%;font-family:AvenirNext-Regular;}
+
+.text-34{clear:both;margin:8px 0 0 6.2919463087%;font-size:0.75em;}
+
+.text-35{margin:8px 0 0 7.1308724832%;font-size:0.75em;}
+
+.text-36{margin:8px 0 0 7.466442953%;font-size:0.75em;}
+
+.text-37,.text-38{clear:both;z-index:4;margin-left:5.5333333333%;}
+
+.text-4{margin-left:27.8631284916%;font-family:AvenirNext-Regular;text-decoration:underline;color:rgb(68, 68, 68);}
+
+.text-39,.text-40{z-index:3;margin-left:9.8%;}
+
+.text-41,.text-42{z-index:2;margin-left:14.8%;}
+
+.text-43,.text-44{z-index:1;margin-left:81.5333333333%;}
+
+.text-5{margin-left:28.4217877094%;font-family:AvenirNext-Regular;text-decoration:underline;color:rgb(68, 68, 68);}
+
+.text-7{margin:12px 0 0 7.3324022346%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+.text-8{margin:12px 0 0 3.5614525139%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+.text-9{margin:12px 0 0 3.6312849162%;font-family:AvenirNext-Italic;font-size:0.75em;color:rgb(144, 144, 144);}
+
+._button-3{position:fixed;top:98px;left:87.4666666666%;z-index:48;width:9.9333333333%;height:42px;background:rgb(54, 155, 235);background:-webkit-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:-moz-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:-o-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:-ms-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:linear-gradient(179deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);color:rgb(255, 255, 255);}
+
+.nav ._button-1{position:relative;z-index:52;width:10.8349900596%;margin:-57px 0 0 72.1669980119%;border:1px solid rgb(255, 255, 255);background-color:rgba(255, 255, 255, 0);}
+
+.nav ._button-2{position:relative;z-index:51;width:12.9224652087%;margin:-57px 0 0 84.3936381709%;background:rgb(54, 155, 235);background:-webkit-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:-moz-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:-o-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:-ms-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:linear-gradient(179deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);}
+
+.nav ._button-8{width:10.8349900596%;margin:1px 0 0 23.3598409542%;border:1px solid rgb(255, 255, 255);background-color:rgba(255, 255, 255, 0);}
+
+.nav ._button-9{width:12.9224652087%;margin:1px 0 0 1.3916500994%;background:rgb(54, 155, 235);background:-webkit-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:-moz-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:-o-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:-ms-linear-gradient(271deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);background:linear-gradient(179deg, rgb(54, 155, 235) 0%, rgb(42, 109, 215) 100%) rgb(222, 222, 222);}
+
+.nav ._text-18{margin:8px 0 0 3.578528827%;color:rgb(255, 255, 255);}
+
+.nav ._text-2{position:relative;clear:both;z-index:57;margin:-50px 0 0 3.578528827%;color:rgba(255, 255, 255, 0.53);}
+
+.nav ._text-20{margin:8px 0 0 4.9701789264%;color:rgba(255, 255, 255, 0.53);}
+
+.nav ._text-21,.nav ._text-23{margin:8px 0 0 4.6719681908%;color:rgba(255, 255, 255, 0.53);}
+
+.nav ._text-25{margin:8px 0 0 5.0695825049%;color:rgba(255, 255, 255, 0.53);}
+
+.nav ._text-3{position:relative;z-index:56;margin:-50px 0 0 15.1093439363%;color:rgba(255, 255, 255, 0.53);}
+
+.nav ._text-4{position:relative;z-index:55;margin:-50px 0 0 24.254473161%;color:rgba(255, 255, 255, 0.53);}
+
+.nav ._text-5{position:relative;z-index:54;margin:-50px 0 0 32.3061630218%;color:rgba(255, 255, 255, 0.53);}
+
+.nav ._text-6{position:relative;z-index:53;margin:-50px 0 0 43.1411530815%;color:rgba(255, 255, 255, 0.53);}
+
+.survey_one ._button-4{clear:both;margin-left:13.5474860335%;}
+
+.survey_one ._button-5,.survey_one ._button-6{margin-left:0.9776536312%;}
+
+.survey_one ._button-7{margin-left:1.0474860335%;}
+
+.survey_two ._button-10{margin-left:13.4776536312%;}
+
+.survey_two ._button-11{margin-left:20.7402234636%;}
+
+.survey_two ._button-12{margin-left:28.002793296%;}
+
+.survey_two ._button-13{position:relative;z-index:11;margin-left:35.2653631284%;}
