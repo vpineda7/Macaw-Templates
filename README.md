@@ -1,6 +1,3 @@
-Macaw-Templates
-===============
-
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/macaw-logo.png)
 
 I often use Macaw to knock up proof of concept sites for clients before I hand code them. Although most the sites I share here won't be fully responsive or use semantic HTML - they may still be of use.
