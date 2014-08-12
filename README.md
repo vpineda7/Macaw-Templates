@@ -2,16 +2,17 @@
 
 Macaw provides the same flexibility as your favorite image editor but also writes semantic HTML and remarkably succinct CSS. It's time to expect more from a web design tool. [Check it out] (http://macaw.co). I often use Macaw to knock up proof of concept sites for clients before I hand code them.
 
+**3 templates are currently offered, with plenty more to come!**
 
 **InputSpike**
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/InputSpike.png)
 
-**Photographer**
+**Photographers Portfolio**
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/Photographer.png)
 
-**Gamer**
+**Gamers Portfolio**
 
 ![](https://raw.github.com/raynesandrew/Macaw-Templates/master/Screenshots/Gamer.png)
 
